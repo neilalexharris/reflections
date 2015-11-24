@@ -1,0 +1,4 @@
+What happens when you initialise a repository?
++ adds a .git folder for meta data
++ recognises all files in repository are not committed (untracked)
++ use 'git status' to find status of repository

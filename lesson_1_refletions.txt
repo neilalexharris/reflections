@@ -1,0 +1,10 @@
+How did using diff make it easier to fix the bug?
++ I could immediately see where the issue was
++ From hundreds of lines of code
++ Ignored everything that was the same
++ Could fix the bug quickly
+
+How can having easy access to the entire history of the file make me more efficient?
++ Roll back
++ Waste time searching for previous versions
+
