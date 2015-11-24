@@ -2,3 +2,7 @@ What happens when you initialise a repository?
 + adds a .git folder for meta data
 + recognises all files in repository are not committed (untracked)
 + use 'git status' to find status of repository
+
+How is the staging area different from the working directory and the repository?
++ enables a collection of files to be grouped before a single commit
++ gives a 2nd chance before making the commit; can back out of staging
