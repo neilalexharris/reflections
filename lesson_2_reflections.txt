@@ -10,3 +10,7 @@ How is the staging area different from the working directory and the repository?
 How can we use the staging area to ensure we have one commit per logical change?
 + add only the files that we want to commit
 + add the files that are relevant to that particular commit
+
+When are branches helpful?
++ when you need to break out some functionality
++ test a totally different method
