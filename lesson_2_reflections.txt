@@ -14,3 +14,8 @@ How can we use the staging area to ensure we have one commit per logical change?
 When are branches helpful?
 + when you need to break out some functionality
 + test a totally different method
+
+Automatic vs Manual merging
++ Automatic saves time by not having to open the file merge the code
++ Manual gives much more control over merging the code
++ Manual you can pick and choose the code to include and discard
