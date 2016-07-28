@@ -7,4 +7,5 @@ How did using diff make it easier to fix the bug?
 How can having easy access to the entire history of the file make me more efficient?
 + Roll back
 + Waste time searching for previous versions
-
++ Lost previous versions
++ Do a diff on previous versions so you can see exactly what has changed over time
