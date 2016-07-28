@@ -1,3 +1,5 @@
 Added some interesting information to the test file
 
 Ready to be committed….
+
+Made another change using Vim.....
